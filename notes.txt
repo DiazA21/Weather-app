@@ -1,0 +1,3 @@
+Future improvements:
+
+Add more fields - such as "Feels like" etc.
